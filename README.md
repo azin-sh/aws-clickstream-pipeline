@@ -1,14 +1,11 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+# AWS Cloud Data Pipeline: Website Clickstream Analytics
 
+## Project Overview
+This project demonstrates an end-to-end data pipeline built on AWS to capture, 
+transform, and analyze real-time website traffic. 
 
-Hi there! Welcome to AWS Cloud9!
-
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
-
-Happy coding!
+## Tech Stack
+* **Amazon EC2:** Web hosting & Apache server.
+* **CloudWatch Logs:** Real-time log streaming and dashboarding.
+* **Amazon S3:** Long-term storage for Machine Learning datasets.
+* **Linux/Bash:** Automation and configuration.
